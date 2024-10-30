@@ -1,0 +1,2 @@
+ALTER TABLE Mahasiswa 
+ADD COLUMN status BOOLEAN;
